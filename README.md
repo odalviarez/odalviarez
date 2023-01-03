@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=odalviarez&label=Profile%20views&color=0e75b6&style=flat" alt="ekisler" /> </p>
 # Hola!👋 Soy Oscar Alviarez
 
 Soy tecnico superior universitario en electronica ⚡ actualmente dedicandome a la programacion full stack.
