@@ -1,4 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=odalviarez&label=Profile%20views&color=0e75b6&style=flat" alt="ekisler" /> </p>
 # Hola!👋 Soy Oscar Alviarez
 
 Soy tecnico superior universitario en electronica ⚡ actualmente dedicandome a la programacion full stack.
@@ -77,3 +76,5 @@ Me apasionan los retos y el trabajo en equipo para plantear y resolver problemas
 
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscalviarez@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscalviarez/)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=odalviarez&label=Profile%20views&color=0e75b6&style=flat" alt="odalviarez" /> </p>
