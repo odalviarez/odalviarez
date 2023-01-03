@@ -27,7 +27,7 @@ Me apasionan los retos y el trabajo en equipo para plantear y resolver problemas
     </td>
     <td align="center"  width="100">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg" width="50" height="50" alt="Sass" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Tailwind" />
       </a>
       <br>Sass
     </td>
@@ -72,3 +72,7 @@ Me apasionan los retos y el trabajo en equipo para plantear y resolver problemas
     </td>
   </tr>
 </table>
+## 🍂 **Contact Me!**
+
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oscalviarez@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oscalviarez/)
