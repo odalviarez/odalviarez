@@ -29,7 +29,7 @@ Me apasionan los retos y el trabajo en equipo para plantear y resolver problemas
       <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" width="50" height="50" alt="Tailwind" />
       </a>
-      <br>Sass
+      <br>Tailwind
     </td>
     <td align="center"  width="100">
       <a href="#">
